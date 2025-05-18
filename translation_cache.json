@@ -1,0 +1,40 @@
+{
+  "Good afternoon, Alice!": {
+    "ja": "こんにちは、アリス！",
+    "zh": "下午好，爱丽丝！"
+  },
+  "Good afternoon, Grant!": {
+    "es": "¡Buenas tardes, Grant!",
+    "fr": "Bonjour, Grant !",
+    "ja": "こんにちは、グラント！"
+  },
+  "Good afternoon, Hunter!": {
+    "es": "¡Buenas tardes, Hunter!",
+    "fr": "Bonjour, Hunter !",
+    "ja": "こんにちは、ハンターさん！"
+  },
+  "Good afternoon, Vincent!": {
+    "es": "¡Buenas tardes, Vincent!",
+    "fr": "Bonjour, Vincent !",
+    "ja": "こんにちは、ヴィンセント！"
+  },
+  "Good evening, Grant!": {
+    "de": "Guten Abend, Grant!",
+    "es": "¡Buenas noches, Grant!",
+    "fr": "Bonsoir, Grant !",
+    "id": "Selamat malam, Grant!",
+    "it": "Buonasera, Grant!",
+    "ja": "こんばんは、グラント！",
+    "ko": "안녕하세요, 그랜트!",
+    "pl": "Dobry wieczór, Grant!",
+    "ru": "Добрый вечер, Грант!"
+  },
+  "Good evening, Nian!": {
+    "ar": "مساء الخير نيان!",
+    "fr": "Bonsoir, Nian !"
+  },
+  "Good evening, Vincent!": {
+    "de": "Guten Abend, Vincent!",
+    "th": "สวัสดีตอนเย็นนะ วินเซนต์!"
+  }
+}
