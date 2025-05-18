@@ -33,7 +33,13 @@ cd ..
 
 2. Configure Google Cloud:
    - Place your service account key as `credentials.json` in project root
-   - Set environment variables in `setup.sh`
+   - Create a `setup.sh` file with the following content:
+     ```bash
+     #!/bin/bash
+     export GOOGLE_APPLICATION_CREDENTIALS="$(pwd)/credentials.json"
+     export GOOGLE_CLOUD_PROJECT_ID="your-project-id"  # Replace with your Google Cloud Project ID
+     ```
+   - Update the `GOOGLE_CLOUD_PROJECT_ID` with your actual project ID
    - Run: `source setup.sh`
 
 ## Usage

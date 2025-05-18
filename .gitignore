@@ -1,0 +1,6 @@
+.env
+credentials.json
+*-credentials.json
+google-credentials.json
+translation_cache.json
+setup.sh 
